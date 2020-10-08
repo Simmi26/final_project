@@ -1,0 +1,1 @@
+ACTION=="add" ,KERNEL=="sdb*", RUN+="/home/user/simran/my_script.sh"
